@@ -13,3 +13,8 @@
 - seaborn
 - sklearn
 - pickle
+
+
+## v2.1 
+---
+배추가격 1 - 크롤링 함수 수정
