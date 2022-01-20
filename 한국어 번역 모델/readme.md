@@ -30,3 +30,7 @@
 # 7일차
 - transformer 구조에 대한 이해와 [나동빈님 코드](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice/blob/master/code_practices/Attention_is_All_You_Need_Tutorial_(German_English).ipynb)를 바탕으로 한국어 영어 번역 모델 개발
 - 학습 중.
+
+# 8일차
+- transformer 모델 활용하여 번역모델 설계완료
+- 생각보다 번역이 잘됨 -> 번역 task는 그렇게 어려운 task가 아니라고 함. :[
